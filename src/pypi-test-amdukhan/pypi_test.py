@@ -1,1 +1,1 @@
-print(raw_input("Enter Name: "))
+print(input("Enter Name: "))
