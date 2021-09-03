@@ -42,7 +42,7 @@ jobs:
       uses: codacy/git-version@2.4.0
       with:
         # The name of the release branch
-        release-branch: main# default is master
+        release-branch: main # default is master
         # The name of the dev branch
         dev-branch: develop # default is dev
         # The prefix to use in the version
