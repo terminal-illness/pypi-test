@@ -46,7 +46,7 @@ jobs:
         # The name of the dev branch
         dev-branch: develop # default is dev
         # The prefix to use in the version
-        prefix: release# optional
+        prefix: release # optional
         # The paths to be used to calculate changes (comma-separated)
         log-paths: logs/ # optional, default is ./
     - name: Test with pytest
